@@ -15,7 +15,7 @@ This repository contains the notebooks for the resolution of the 3 exercises pro
 Here are the final numbers for the 3 different approaches:
 
 |         | BM25   | Boolean | TF-IDF weighting |
-|---------|--------|---------|------------------|
+|---------|:---:   |:---:    |:---:|
 | nDCG@10 | 0.4876 | 0.0538  | 0.1740 |
 
 
